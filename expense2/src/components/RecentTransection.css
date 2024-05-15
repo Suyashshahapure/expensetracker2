@@ -1,0 +1,24 @@
+.transactions-container {
+    display: flex;
+  }
+  
+  .transaction-item {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    padding: 10px;
+  }
+  
+  .title-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .T-title, .T-date {
+    color: black;
+  }
+  
+  .T-price {
+    color: #F4BB4A;
+  }
+  
